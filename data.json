@@ -1,0 +1,334 @@
+{
+  "users": {
+    "ness": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Pip",
+      "sessions": [
+        {
+          "topic": "Animals",
+          "score": 4,
+          "total": 4,
+          "percent": 100,
+          "difficulty": "Beginner",
+          "date": "2026-05-14 12:19",
+          "type": "quiz"
+        },
+        {
+          "topic": "Language",
+          "score": 4,
+          "total": 4,
+          "percent": 100,
+          "difficulty": "Beginner",
+          "date": "2026-05-15 02:12",
+          "type": "quiz"
+        },
+        {
+          "topic": "Numbers",
+          "score": 4,
+          "total": 4,
+          "percent": 100,
+          "difficulty": "Beginner",
+          "date": "2026-05-15 12:29",
+          "type": "quiz"
+        },
+        {
+          "topic": "Shapes",
+          "score": 4,
+          "total": 4,
+          "percent": 100,
+          "difficulty": "Beginner",
+          "date": "2026-05-15 12:41",
+          "type": "quiz"
+        }
+      ],
+      "badges": [],
+      "topics_tried": [
+        "Animals",
+        "Language",
+        "Numbers",
+        "Shapes"
+      ],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false,
+      "mood": "happy",
+      "mood_history": [
+        {
+          "mood": "happy",
+          "date": "2026-05-15 11:11"
+        },
+        {
+          "mood": "worried",
+          "date": "2026-05-15 11:11"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 11:59"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 12:09"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 12:23"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 12:48"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 21:52"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 22:18"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 22:55"
+        }
+      ]
+    },
+    "isha": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Blaze",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "ishaaa": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Rex",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "0000": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "guardian",
+      "buddy": "Bubbles",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "000": {
+      "password": "2ac9a6746aca543af8dff39894cfe8173afba21eb01c6fae33d52947222855ef",
+      "role": "child",
+      "buddy": "Rex",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "NEss": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Blaze",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "ahbay": {
+      "password": "07f7a61b7777ad5fa4dc6ee0ae207e1ae4a9f84ccc7906ab422eab6f8e543356",
+      "role": "child",
+      "buddy": "Cosmo",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false
+    },
+    "abhay": {
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "role": "child",
+      "buddy": "Blaze",
+      "sessions": [
+        {
+          "topic": "Numbers",
+          "score": 210,
+          "total": 60,
+          "percent": 350,
+          "difficulty": "Beginner",
+          "date": "2026-05-14 16:58",
+          "type": "quiz"
+        },
+        {
+          "topic": "Colours",
+          "score": 210,
+          "total": 60,
+          "percent": 350,
+          "difficulty": "Beginner",
+          "date": "2026-05-14 17:58",
+          "type": "quiz"
+        }
+      ],
+      "badges": [],
+      "topics_tried": [
+        "Numbers",
+        "Colours"
+      ],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": true
+    },
+    "inas": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Captain",
+      "sessions": [
+        {
+          "topic": "Shapes",
+          "score": 4,
+          "total": 4,
+          "percent": 100,
+          "difficulty": "Beginner",
+          "date": "2026-05-14 18:24",
+          "type": "quiz"
+        },
+        {
+          "topic": "Numbers",
+          "score": 10,
+          "total": 60,
+          "percent": 16,
+          "difficulty": "Beginner",
+          "date": "2026-05-14 19:46",
+          "type": "quiz"
+        }
+      ],
+      "badges": [],
+      "topics_tried": [
+        "Shapes",
+        "Numbers"
+      ],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "buddy_chosen": false,
+      "mood": "happy",
+      "mood_history": [
+        {
+          "mood": "happy",
+          "date": "2026-05-15 22:10"
+        }
+      ]
+    },
+    "nessy": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Bubbles",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "mood": "happy",
+      "mood_history": [
+        {
+          "mood": "happy",
+          "date": "2026-05-15 10:51"
+        }
+      ],
+      "buddy_chosen": false
+    },
+    "NESS": {
+      "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "role": "child",
+      "buddy": "Luna",
+      "sessions": [],
+      "badges": [],
+      "topics_tried": [],
+      "difficulty": {
+        "Animals": "Beginner",
+        "Colours": "Beginner",
+        "Shapes": "Beginner",
+        "Numbers": "Beginner",
+        "Language": "Beginner"
+      },
+      "mood": "happy",
+      "mood_history": [
+        {
+          "mood": "happy",
+          "date": "2026-05-15 11:17"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 11:26"
+        },
+        {
+          "mood": "happy",
+          "date": "2026-05-15 11:31"
+        }
+      ],
+      "buddy_chosen": true
+    }
+  }
+}
